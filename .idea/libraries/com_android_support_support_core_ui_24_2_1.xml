@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="com.android.support:support-core-ui-24.2.1">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.android/build-cache/3f7f4d2eb81e7c021be089836590b633459ed42a/output/res" />
+      <root url="jar://$USER_HOME$/.android/build-cache/3f7f4d2eb81e7c021be089836590b633459ed42a/output/jars/libs/internal_impl-24.2.1.jar!/" />
+      <root url="jar://$USER_HOME$/.android/build-cache/3f7f4d2eb81e7c021be089836590b633459ed42a/output/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/AppData/Local/Android/sdk/extras/android/m2repository/com/android/support/support-core-ui/24.2.1/support-core-ui-24.2.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/AppData/Local/Android/sdk/extras/android/m2repository/com/android/support/support-core-ui/24.2.1/support-core-ui-24.2.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
